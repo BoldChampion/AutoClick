@@ -70,9 +70,10 @@
 4、界面展示
 
 
-![image](https://github.com/BoldChampion/AutoClick/assets/171965684/6079ce03-6283-42ee-a5fb-a72bfdb0a5f1)
+![image](https://github.com/BoldChampion/AutoClick/assets/171965684/3b31e2bd-f856-4321-add0-73223ce6b063)
 
-![image](https://github.com/BoldChampion/AutoClick/assets/171965684/b2467f19-8b87-4102-9b13-f6a85479de3c)
+
+![image](https://github.com/BoldChampion/AutoClick/assets/171965684/168b03ff-f6df-4843-ad7e-c88b4439a45e)
 
 
 希望这个工具能帮到大家，让大家提升工作效率，避免重复繁杂的工作浪费大家太多的时间，如有任何针对工具的想法，大家可以评论区多多提意见，我会在后续不断优化工具，提升工具的全面性。
