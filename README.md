@@ -68,7 +68,7 @@ pip3 install -r requirements.txt
 3、Google或Microsoft官网下载对应你当前浏览器版本的driver驱动，下载好后文件需要解压到AutoClick.py文件目录下，脚本默认从当前目录加载驱动。
 
 ```markdown
-#下载好后在如下代码位置进行修改，修改为你下载的对应的driver名字即可
+# 下载好后在如下代码位置进行修改，修改为你下载的对应的driver名字即可
 service = Service(executable_path="msedgedriver.exe")
 ```
 
