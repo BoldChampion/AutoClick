@@ -69,8 +69,8 @@
 
 4、界面展示
 
-![image](https://github.com/BoldChampion/AutoClick/assets/171965684/63d3f3ee-009c-4947-9c9c-522a3407e6c0)
 
+![image](https://github.com/BoldChampion/AutoClick/assets/171965684/6079ce03-6283-42ee-a5fb-a72bfdb0a5f1)
 
 ![image](https://github.com/BoldChampion/AutoClick/assets/171965684/b2467f19-8b87-4102-9b13-f6a85479de3c)
 
