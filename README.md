@@ -76,8 +76,10 @@ service = Service(executable_path="msedgedriver.exe")
 
 运行如下命令启动应用程序
 
-```
+```markdown
+```python
 python3 AutoClick.py
+```
 ```
 
 5、界面展示
