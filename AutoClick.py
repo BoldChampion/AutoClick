@@ -201,7 +201,7 @@ class SeleniumTool(QMainWindow):
         self.worker = None
 
     def initUI(self):
-        self.setWindowTitle('Selenium Tool')
+        self.setWindowTitle('Created by BoldChampion(^ o ^)')
         self.setGeometry(100, 100, 800, 600)
 
         main_widget = QWidget(self)
