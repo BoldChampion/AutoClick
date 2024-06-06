@@ -60,7 +60,9 @@
 
 2、安装pip3依赖（运行如下命令安装）
 
-```pip3 install -r requirements.txt```
+```
+pip3 install -r requirements.txt
+```
 
 3、Google或Microsoft官网下载webdriver驱动
 
@@ -74,7 +76,9 @@
 
 运行如下命令启动应用程序
 
-```python3 AutoClick.py```
+```
+python3 AutoClick.py
+```
 
 5、界面展示
 
