@@ -65,7 +65,7 @@
 
 运行如下命令启动应用程序
 
-、、、python3 AutoClick.py、、、
+```python3 AutoClick.py```
 
 4、界面展示
 
