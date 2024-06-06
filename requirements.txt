@@ -1,0 +1,8 @@
+sys
+requests
+ddddocr
+os
+PyQt5
+pandas
+selenium
+pyautogui
