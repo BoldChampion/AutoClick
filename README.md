@@ -61,13 +61,22 @@
 2、安装pip3依赖（运行如下命令安装）
 
 ```pip3 install -r requirements.txt```
-3、启动应用程序
+
+3、Google或Microsoft官网下载webdriver驱动
+
+下载好后在如下代码位置进行修改，修改为你下载的对应的webdriver名字即可
+
+```
+
+```
+
+4、启动应用程序
 
 运行如下命令启动应用程序
 
 ```python3 AutoClick.py```
 
-4、界面展示
+5、界面展示
 
 
 ![image](https://github.com/BoldChampion/AutoClick/assets/171965684/3b31e2bd-f856-4321-add0-73223ce6b063)
