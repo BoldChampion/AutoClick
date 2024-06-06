@@ -61,13 +61,13 @@
 
 2、安装pip3依赖（运行如下命令安装）
 
-```
+```markdown
 pip3 install -r requirements.txt
 ```
 
 3、Google或Microsoft官网下载对应你当前浏览器版本的driver驱动，下载好后文件需要解压到AutoClick.py文件目录下，脚本默认从当前目录加载驱动。
 
-```
+```markdown
 #下载好后在如下代码位置进行修改，修改为你下载的对应的driver名字即可
 service = Service(executable_path="msedgedriver.exe")
 ```
@@ -77,9 +77,7 @@ service = Service(executable_path="msedgedriver.exe")
 运行如下命令启动应用程序
 
 ```markdown
-```python
 python3 AutoClick.py
-```
 ```
 
 5、界面展示
